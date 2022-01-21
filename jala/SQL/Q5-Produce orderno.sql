@@ -1,0 +1,1 @@
+Select ordno, amt, odate from orders;

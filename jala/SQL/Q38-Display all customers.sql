@@ -1,0 +1,1 @@
+Select cname, sname from salespeople, cust where sname in  ( select sname  from salespeople where rownum ≶ = 3) order by cname; 

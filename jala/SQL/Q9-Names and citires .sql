@@ -1,0 +1,1 @@
+Select sname, city from salepeople where comm > 0.10 and city = ‘London’;

@@ -1,0 +1,1 @@
+Select distinct snum from orders;
